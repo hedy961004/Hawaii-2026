@@ -1,0 +1,564 @@
+{
+  "checkedAt": "2026-10-16",
+  "policy": "已下载照片按原比例压缩为 WebP，未生成或改变场景；保留文件来源、作者、原始许可和同许可压缩副本。CC BY-SA 图片按原许可共享，许可不改变应用代码。资料照片不代表旅行当天实景。",
+  "requiredDomains": [
+    "commons.wikimedia.org",
+    "upload.wikimedia.org",
+    "www.nps.gov"
+  ],
+  "assets": [
+    {
+      "id": "kona-coast",
+      "place": "Kailua-Kona 海岸，大岛",
+      "status": "ready",
+      "localPath": "/assets/photos/kona-coast.webp",
+      "author": "Travisthurston",
+      "license": "CC BY-SA 3.0",
+      "verifiedLocation": true,
+      "attribution": "Kona Makai.jpg — Travisthurston — CC BY-SA 3.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Kailua+Kona+coast+Hawaii&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Kailua+Bay+Kona+coast+Hawaii&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "title": "File:Kona Makai.jpg",
+      "description": "Kailua-Kona  and the Kona Coast — on the  Big Island of Hawaiʻi .\n  From southern shoreline, facing north.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "usage": "Creative Commons Attribution-Share Alike 3.0",
+      "restrictions": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kona_Makai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Kona_Makai.jpg/1280px-Kona_Makai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Kona_Makai.jpg",
+      "width": 2007,
+      "height": 1410,
+      "credit": "Own work",
+      "date": "2008-12",
+      "sha256": "cd74d756f28adf63d7f1b7ac810ac8080ef192b796d9b5ae28a158b327de2e10",
+      "bytes": 161896,
+      "pixelSize": [
+        1280,
+        899
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kona_Makai.jpg",
+      "selectedQuery": "Kailua Bay Kona coast Hawaii",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Kailua+Bay+Kona+coast+Hawaii&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+      "caption": "Kailua-Kona 海岸，大岛",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY-SA 3.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "mauna-kea-vis",
+      "place": "Mauna Kea VIS 游客中心，大岛（非顶峰）",
+      "status": "ready",
+      "localPath": "/assets/photos/mauna-kea-vis.webp",
+      "author": "Robert Linsdell  from St. Andrews, Canada",
+      "license": "CC BY 2.0",
+      "verifiedLocation": true,
+      "attribution": "Maunakea Visitor Information Station, Mauna Kea (503972) (21503282014).jpg — Robert Linsdell  from St. Andrews, Canada — CC BY 2.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Mauna+Kea+Visitor+Information+Station&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=filetype%3Abitmap+%22Mauna+Kea%22+%22visitor%22&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "title": "File:Maunakea Visitor Information Station, Mauna Kea (503972) (21503282014).jpg",
+      "description": "Maunakea Visitor Information Station, Mauna Kea, Big Island, Hawaii, United States",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Maunakea_Visitor_Information_Station%2C_Mauna_Kea_%28503972%29_%2821503282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Maunakea_Visitor_Information_Station,_Mauna_Kea_(503972)_(21503282014).jpg",
+      "width": 5472,
+      "height": 3648,
+      "date": "2014-10-29 20:22",
+      "sha256": "174a8d0ff5e3f3464420d0e83fc4a20f08da74f36966d4e834700ec2da8684a3",
+      "bytes": 26040,
+      "pixelSize": [
+        1280,
+        853
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Maunakea_Visitor_Information_Station%2C_Mauna_Kea_%28503972%29_%2821503282014%29.jpg",
+      "selectedQuery": "filetype:bitmap \"Mauna Kea\" \"visitor\"",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=filetype%3Abitmap+%22Mauna+Kea%22+%22visitor%22&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+      "caption": "Mauna Kea VIS 游客中心，大岛（非顶峰）",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY 2.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "punaluu",
+      "place": "Punaluʻu 黑沙滩，大岛",
+      "status": "ready",
+      "localPath": "/assets/photos/punaluu.webp",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "verifiedLocation": true,
+      "attribution": "Punaluu Black Sand Beach, Hawaii, USA4.jpg — Diego Delso — CC BY-SA 3.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrsearch=Punaluu+black+sand+beach+Hawaii&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Punaluu%22+beach&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "locationSource": "夏威夷旅行攻略.pdf，第 1 页",
+      "title": "File:Punaluu Black Sand Beach, Hawaii, USA4.jpg",
+      "description": "Punaluu Black Sand Beach, Hawaii, USA",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "usage": "Creative Commons Attribution-Share Alike 3.0",
+      "restrictions": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Punaluu_Black_Sand_Beach%2C_Hawaii%2C_USA4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Punaluu_Black_Sand_Beach%2C_Hawaii%2C_USA4.jpg/1280px-Punaluu_Black_Sand_Beach%2C_Hawaii%2C_USA4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Punaluu_Black_Sand_Beach,_Hawaii,_USA4.jpg",
+      "width": 3778,
+      "height": 2239,
+      "credit": "Own work",
+      "date": "2008-12-26",
+      "sha256": "77536fbbd2e5282325d12fbf1e00d2694dbc2a838da0234db7cd619f7e29387c",
+      "bytes": 107698,
+      "pixelSize": [
+        1280,
+        759
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Punaluu_Black_Sand_Beach%2C_Hawaii%2C_USA4.jpg",
+      "selectedQuery": "\"Punaluu\" beach",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Punaluu%22+beach&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+      "caption": "Punaluʻu 黑沙滩，大岛",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY-SA 3.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "papakolea",
+      "place": "Papakōlea 绿沙滩，大岛",
+      "status": "ready",
+      "localPath": "/assets/photos/papakolea.webp",
+      "author": "Pushkr  from  , United States",
+      "license": "CC BY 2.0",
+      "verifiedLocation": true,
+      "attribution": "Green Sand Beach (Papakolea Beach) (17905163884).jpg — Pushkr  from  , United States — CC BY 2.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrsearch=Papakolea+green+sand+beach+Hawaii&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Papakolea%22+beach&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "locationSource": "夏威夷旅行攻略.pdf，第 1 页",
+      "title": "File:Green Sand Beach (Papakolea Beach) (17905163884).jpg",
+      "description": "This is one of very few green sand beaches in the world. Ride to this beach is quite an adventure. There is no easy way to go here unless you have UTV or high-powered all wheel drive. We hitched a ride with a local gentleman named John for $15 round trip pp. There is no proper road to reach here, its all just roughest terrain with mud puddles, rocks and whatnot. We saw so many 'all terrain' SUVs stuck on the way here.  \n \n  \nDont even think about driving your rental car here.",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "usage": "Creative Commons Attribution 2.0",
+      "restrictions": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Green_Sand_Beach_%28Papakolea_Beach%29_%2817905163884%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Green_Sand_Beach_%28Papakolea_Beach%29_%2817905163884%29.jpg/1280px-Green_Sand_Beach_%28Papakolea_Beach%29_%2817905163884%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Green_Sand_Beach_(Papakolea_Beach)_(17905163884).jpg",
+      "width": 4752,
+      "height": 3168,
+      "credit": "Green Sand Beach (Papakolea Beach)",
+      "date": "2015-03-05 19:08",
+      "sha256": "cc603194439a374733684c45a44f7a1bd58f47a996b0d6241621b32dc709079f",
+      "bytes": 232366,
+      "pixelSize": [
+        1280,
+        853
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Green_Sand_Beach_%28Papakolea_Beach%29_%2817905163884%29.jpg",
+      "selectedQuery": "\"Papakolea\" beach",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Papakolea%22+beach&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+      "caption": "Papakōlea 绿沙滩，大岛",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY 2.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "hana-hou",
+      "place": "Hana Hou Restaurant, Naalehu, Hawaii Island",
+      "status": "missing",
+      "localPath": null,
+      "author": null,
+      "license": null,
+      "verifiedLocation": false,
+      "attribution": null,
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Hana+Hou+Restaurant+Naalehu&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Hana+Hou%22+%22Naalehu%22&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+          "result": "HTTP 200；候选 0 个，未找到可核实餐厅图片"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=filetype%3Abitmap+%22Hana+Hou%22+restaurant&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+          "result": "HTTP 200；候选 0 个，未找到可核实餐厅图片"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=6&gsrsearch=filetype%3Abitmap+%22Hana+Hou%22+-magazine&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+          "result": "HTTP 200；候选 4 个，未找到可核实餐厅图片"
+        }
+      ],
+      "reason": "已用 Hana Hou + Nā‘ālehu / restaurant 等检索；无餐厅对应的许可明确照片。宽泛搜索返回同名乐队等无关结果，已排除，未用别处照片替代。",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "south-point",
+      "place": "Ka Lae / South Point 最南端，大岛",
+      "status": "ready",
+      "localPath": "/assets/photos/south-point.webp",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "verifiedLocation": true,
+      "attribution": "2021-10-09 18 02 16 View north along the cliffs just northwest of South Point, Hawaii County, Hawaii near sunset.jpg — Famartin — CC BY-SA 4.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Ka+Lae+South+Point+Hawaii&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=6&gsrsearch=filetype%3Abitmap+%22South+Point%22+%22Hawaii%22+cliff&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "title": "File:2021-10-09 18 02 16 View north along the cliffs just northwest of South Point, Hawaii County, Hawaii near sunset.jpg",
+      "description": "View north along the cliffs just northwest of South Point, Hawaii County, Hawaii near sunset",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/2021-10-09_18_02_16_View_north_along_the_cliffs_just_northwest_of_South_Point%2C_Hawaii_County%2C_Hawaii_near_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:2021-10-09_18_02_16_View_north_along_the_cliffs_just_northwest_of_South_Point,_Hawaii_County,_Hawaii_near_sunset.jpg",
+      "width": 4032,
+      "height": 3024,
+      "date": "2021-10-09 18:02:16",
+      "sha256": "895b4a9aab8e3d4638a5780453350ae595554493c3acf12699764e0ba8aae91b",
+      "bytes": 80274,
+      "pixelSize": [
+        1280,
+        960
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/2021-10-09_18_02_16_View_north_along_the_cliffs_just_northwest_of_South_Point%2C_Hawaii_County%2C_Hawaii_near_sunset.jpg",
+      "selectedQuery": "filetype:bitmap \"South Point\" \"Hawaii\" cliff",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=6&gsrsearch=filetype%3Abitmap+%22South+Point%22+%22Hawaii%22+cliff&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+      "caption": "Ka Lae / South Point 最南端，大岛",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "volcanoes",
+      "place": "Crater Rim Trail，夏威夷火山国家公园",
+      "status": "ready",
+      "localPath": "/assets/photos/volcanoes.webp",
+      "author": "Trougnouf (Benoit Brummer)",
+      "license": "CC BY 4.0",
+      "verifiedLocation": true,
+      "attribution": "Crater Rim Trail, Hawaiʻi Volcanoes National Park (DSC00515).jpg — Trougnouf (Benoit Brummer) — CC BY 4.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Hawaii+Volcanoes+National+Park&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://www.nps.gov/havo/learn/photosmultimedia/photogallery.htm",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Hawaii+Volcanoes+National+Park%22+crater&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "title": "File:Crater Rim Trail, Hawaiʻi Volcanoes National Park (DSC00515).jpg",
+      "description": "Crater Rim Trail (Hawaiʻi Volcanoes National Park)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "usage": "Creative Commons Attribution 4.0",
+      "restrictions": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Crater_Rim_Trail%2C_Hawai%CA%BBi_Volcanoes_National_Park_%28DSC00515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Crater_Rim_Trail%2C_Hawai%CA%BBi_Volcanoes_National_Park_%28DSC00515%29.jpg/1280px-Crater_Rim_Trail%2C_Hawai%CA%BBi_Volcanoes_National_Park_%28DSC00515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Crater_Rim_Trail,_Hawai%CA%BBi_Volcanoes_National_Park_(DSC00515).jpg",
+      "width": 6048,
+      "height": 3988,
+      "credit": "Own work",
+      "date": "2023-01-15 15:58:11",
+      "sha256": "d0ef1de55d41c2474c2a60cdffd2a63e6a830f8285fb805e0e1ad226252dccf5",
+      "bytes": 400756,
+      "pixelSize": [
+        1280,
+        844
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Crater_Rim_Trail%2C_Hawai%CA%BBi_Volcanoes_National_Park_%28DSC00515%29.jpg",
+      "selectedQuery": "\"Hawaii Volcanoes National Park\" crater",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Hawaii+Volcanoes+National+Park%22+crater&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+      "caption": "Crater Rim Trail，夏威夷火山国家公园",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY 4.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "id": "grand-wailea",
+      "place": "Grand Wailea，Wailea，Maui",
+      "status": "ready",
+      "localPath": "/assets/photos/grand-wailea.webp",
+      "author": "Forest and Kim Starr",
+      "license": "CC BY 3.0 us",
+      "verifiedLocation": true,
+      "attribution": "Starr-091223-1169-Cocos nucifera-habitat view The Grand Wailea Resort and Wailea 670 from Ohua boat-Wailea-Maui (24625701319).jpg — Forest and Kim Starr — CC BY 3.0 us",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Grand+Wailea+Maui&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Grand+Wailea%22+resort&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "title": "File:Starr-091223-1169-Cocos nucifera-habitat view The Grand Wailea Resort and Wailea 670 from Ohua boat-Wailea-Maui (24625701319).jpg",
+      "description": "Cocos nucifera  (Coconut palm, niu)     \n  Habitat view The Grand Wailea Resort and Wailea 670 from Ohua boat at Wailea, Maui, Hawaii.\nDecember 23, 2009\n   \n \n   #091223-1169   \n  \n \n   Image Use Policy",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+      "usage": "Creative Commons Attribution 3.0 us",
+      "restrictions": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Starr-091223-1169-Cocos_nucifera-habitat_view_The_Grand_Wailea_Resort_and_Wailea_670_from_Ohua_boat-Wailea-Maui_%2824625701319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Starr-091223-1169-Cocos_nucifera-habitat_view_The_Grand_Wailea_Resort_and_Wailea_670_from_Ohua_boat-Wailea-Maui_%2824625701319%29.jpg/1280px-Starr-091223-1169-Cocos_nucifera-habitat_view_The_Grand_Wailea_Resort_and_Wailea_670_from_Ohua_boat-Wailea-Maui_%2824625701319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Starr-091223-1169-Cocos_nucifera-habitat_view_The_Grand_Wailea_Resort_and_Wailea_670_from_Ohua_boat-Wailea-Maui_(24625701319).jpg",
+      "width": 3648,
+      "height": 2736,
+      "credit": "starr-091223-1169-Cocos_nucifera-habitat_view_The_Grand_Wailea_Resort_and_Wailea_670_from_Ohua_boat-Wailea-Maui",
+      "date": "2009-12-23 13:10",
+      "sha256": "ce587b2d79deadce0fa2de58ec1e5333a9ed4649accfcf233e6fd1a62f8be58a",
+      "bytes": 198818,
+      "pixelSize": [
+        1280,
+        960
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Starr-091223-1169-Cocos_nucifera-habitat_view_The_Grand_Wailea_Resort_and_Wailea_670_from_Ohua_boat-Wailea-Maui_%2824625701319%29.jpg",
+      "selectedQuery": "\"Grand Wailea\" resort",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Grand+Wailea%22+resort&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+      "caption": "Grand Wailea，Wailea，Maui",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY 3.0 us",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en"
+    },
+    {
+      "id": "redline",
+      "place": "Molokini Crater，Maui（浮潜路线景点，非商家船只）",
+      "status": "ready",
+      "localPath": "/assets/photos/redline.webp",
+      "author": "Bossfrog",
+      "license": "CC BY-SA 4.0",
+      "verifiedLocation": true,
+      "attribution": "Molokini-crater-maui.jpg — Bossfrog — CC BY-SA 4.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Redline+Rafting+Maui&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Molokini%22+crater+aerial&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "title": "File:Molokini-crater-maui.jpg",
+      "description": "Molokini Crater Recreation Snorkeling",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "usage": "Creative Commons Attribution-Share Alike 4.0",
+      "restrictions": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Molokini-crater-maui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Molokini-crater-maui.jpg/1280px-Molokini-crater-maui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Molokini-crater-maui.jpg",
+      "width": 1600,
+      "height": 995,
+      "credit": "Own work",
+      "date": "2015-12-04",
+      "sha256": "7737a778e838ec856fbe112b30d4f3fcd596cf8f595d76102020883434de02f4",
+      "bytes": 123394,
+      "pixelSize": [
+        1280,
+        796
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Molokini-crater-maui.jpg",
+      "selectedQuery": "\"Molokini\" crater aerial",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Molokini%22+crater+aerial&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+      "caption": "Molokini Crater，Maui（浮潜路线景点，非商家船只）",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "haleakala",
+      "place": "Haleakalā 国家公园日落，Holua 营地视角",
+      "status": "ready",
+      "localPath": "/assets/photos/haleakala.webp",
+      "author": "Paxson Woelber",
+      "license": "CC BY 3.0",
+      "verifiedLocation": true,
+      "attribution": "Sunset From Holua Campsite Maui Hawaii (244166211).jpeg — Paxson Woelber — CC BY 3.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Haleakala+National+Park+Maui+sunset&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://www.nps.gov/hale/learn/photosmultimedia/photogallery.htm",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Haleakala%22+sunset+crater&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "title": "File:Sunset From Holua Campsite Maui Hawaii (244166211).jpeg",
+      "description": "500px provided description: Watching the sunset from Holua camp, in Maui's Haleakala National Park. [#sky ,#landscape ,#sunset ,#clouds ,#cloudscape ,#cloud ,#pink sunset ,#sunsets ,#above clouds ,#above the clouds ,#skyscape ,#clouds sunset ,#sunset colors ,#Maui ,#Haleakala ,#Hawaii sunset ,#Haleakala crater ,#Hawaii sunsets ,#sunset above clouds ,#Holua ,#sunset on Haleakala]",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "usage": "Creative Commons Attribution 3.0",
+      "restrictions": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sunset_From_Holua_Campsite_Maui_Hawaii_%28244166211%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sunset_From_Holua_Campsite_Maui_Hawaii_%28244166211%29.jpeg/1280px-Sunset_From_Holua_Campsite_Maui_Hawaii_%28244166211%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunset_From_Holua_Campsite_Maui_Hawaii_(244166211).jpeg",
+      "width": 2048,
+      "height": 1365,
+      "credit": "Imported from  500px  ( archived version ) by  the Archive Team . ( detail page )",
+      "date": "1 January 2018, 18:55:22 (UTC)",
+      "sha256": "32d0d261eb859325d03c421d645706ac3e9ea5af4f74c8707081234931ecb132",
+      "bytes": 12920,
+      "pixelSize": [
+        1280,
+        853
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sunset_From_Holua_Campsite_Maui_Hawaii_%28244166211%29.jpeg",
+      "selectedQuery": "\"Haleakala\" sunset crater",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=%22Haleakala%22+sunset+crater&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&format=json",
+      "caption": "Haleakalā 国家公园日落，Holua 营地视角",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY 3.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+      "id": "maui-south",
+      "place": "Wailea 与 Wailea Beach，Maui",
+      "status": "ready",
+      "localPath": "/assets/photos/maui-south.webp",
+      "author": "Ekrem Canli",
+      "license": "CC BY-SA 4.0",
+      "verifiedLocation": true,
+      "attribution": "Wailea, HI.jpg — Ekrem Canli — CC BY-SA 4.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Wailea+Maui+coast&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=8&gsrsearch=filetype%3Abitmap+%22Wailea+beach%22+-Pseuderanthemum+-Crinum+-windmills&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "title": "File:Wailea, HI.jpg",
+      "description": "Wailea  with Wailea Beach",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wailea%2C_HI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Wailea,_HI.jpg",
+      "width": 5760,
+      "height": 3840,
+      "date": "2017-07-26 15:34:06",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=8&gsrsearch=filetype%3Abitmap+%22Wailea+beach%22+-Pseuderanthemum+-Crinum+-windmills&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+      "query": "filetype:bitmap \"Wailea beach\" -Pseuderanthemum -Crinum -windmills",
+      "sha256": "917a5f96f03891dee96f36843e0534858a753ed6874ee03732cfd281d63cfbc0",
+      "bytes": 178726,
+      "pixelSize": [
+        1280,
+        853
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wailea%2C_HI.jpg",
+      "selectedQuery": "filetype:bitmap \"Wailea beach\" -Pseuderanthemum -Crinum -windmills",
+      "caption": "Wailea 与 Wailea Beach，Maui",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "manta",
+      "place": "Kona 魔鬼鱼夜潜资料照，大岛（非本次订单实拍）",
+      "status": "ready",
+      "localPath": "/assets/photos/manta.webp",
+      "author": "William Stamps Howard",
+      "license": "CC BY-SA 3.0",
+      "verifiedLocation": true,
+      "attribution": "Manta Ray in Kona, Hawaii.jpg — William Stamps Howard — CC BY-SA 3.0",
+      "attempts": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=Kona+manta+ray+night+snorkel&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
+          "result": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=filetype%3Abitmap+%22Kona%22+%22manta%22+night&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+          "result": "HTTP 200；核对地点、许可并下载原图；已生成本地 WebP"
+        }
+      ],
+      "reason": "已依据文件标题、描述和画面核对地点；许可证为允许商用的 CC BY / CC BY-SA。",
+      "title": "File:Manta Ray in Kona, Hawaii.jpg",
+      "description": "This is a photo of a Manta Ray, taken in a night scua dive in Kona, Hawaii.  The Manta Ray Night Dive is the most well known and popular dive on the Big Island of Hawaii, drawing hundreds of participants each evening.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Manta_Ray_in_Kona%2C_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Manta_Ray_in_Kona,_Hawaii.jpg",
+      "width": 1000,
+      "height": 750,
+      "date": "2011-09-07",
+      "sha256": "a3e05d6dd503c2d11e4595d77cf846a1215e4a953411fd7ad8b23dbc1f54868f",
+      "bytes": 142028,
+      "pixelSize": [
+        1000,
+        750
+      ],
+      "transform": "按原比例缩至最长边1280px并编码WebP，去除元数据；未生成或改变场景",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Manta_Ray_in_Kona%2C_Hawaii.jpg",
+      "selectedQuery": "filetype:bitmap \"Kona\" \"manta\" night",
+      "queryUrl": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrlimit=5&gsrsearch=filetype%3Abitmap+%22Kona%22+%22manta%22+night&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&format=json",
+      "caption": "Kona 魔鬼鱼夜潜资料照，大岛（非本次订单实拍）",
+      "checkedAt": "2026-10-16",
+      "verification": "Wikimedia Commons 文件描述与已下载画面核对；非实时照片，不保证旅行当日景象。",
+      "derivativeLicense": "CC BY-SA 3.0",
+      "derivativeLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  ]
+}
